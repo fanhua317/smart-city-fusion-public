@@ -15,6 +15,10 @@
 !/results/score_tables/public_scores.md
 !/results/score_tables/anonymized_leaderboard_*.csv
 !/results/score_tables/anonymized_leaderboard_*.md
+!/results/score_tables/dataset_profile.csv
+!/results/score_tables/round11_*.csv
+!/results/score_tables/round11_*.json
+!/results/score_tables/recommended_upload_order.md
 /docs/rendered/
 
 # Local/remote environment
