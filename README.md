@@ -15,6 +15,7 @@ This public version is desensitized:
 - `scripts/`: fusion generation, local metrics, candidate selection, and remote helper scripts.
 - `docs/`: experiment notes and upload strategy records.
 - `results/score_tables/public_scores.*`: anonymized own-candidate score summaries.
+- `results/score_tables/anonymized_leaderboard_*.csv`: full anonymized leaderboard metrics for rank-aware tuning.
 
 ## Reproduce Locally
 

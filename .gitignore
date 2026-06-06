@@ -13,6 +13,8 @@
 !/results/score_tables/
 !/results/score_tables/public_scores.csv
 !/results/score_tables/public_scores.md
+!/results/score_tables/anonymized_leaderboard_*.csv
+!/results/score_tables/anonymized_leaderboard_*.md
 /docs/rendered/
 
 # Local/remote environment
