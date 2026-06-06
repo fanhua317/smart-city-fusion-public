@@ -1,0 +1,28 @@
+﻿# Assignment/private assets
+/target/
+/Evaluation.exe
+/remote_sync/
+/leaderboard_*.csv
+*.dt
+*.zip
+*.pptx
+*.docx
+
+# Generated results and images
+/results/*
+!/results/score_tables/
+!/results/score_tables/public_scores.csv
+!/results/score_tables/public_scores.md
+/docs/rendered/
+
+# Local/remote environment
+.venv/
+venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
